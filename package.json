@@ -27,5 +27,8 @@
     "vite-plugin-full-reload": "^1.0.5",
     "vite-plugin-handlebars": "^1.6.0",
     "vite-plugin-html-inject": "^1.0.1"
-  }
+  },
+  "description": "## Група розробників",
+  "main": "vite.config.js",
+  "keywords": []
 }
